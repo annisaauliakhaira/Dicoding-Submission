@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Submission</string>
+    <string name="wisatas_name">Nama Objek Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite </string>
+    <string name="share">Share</string>
+</resources>
